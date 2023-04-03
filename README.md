@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Enock Omwega
-[](https://res.cloudinary.com/practicaldev/image/fetch/s--WLCxLHaG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ouzz1vdmg4v8nqsimpqe.gif)
+![image](https://user-images.githubusercontent.com/95473301/229603440-d2ea9577-376e-4a53-ba38-69a138eb3c1a.png)
+
 
 I'm a Front-End Software Developer by passion and an expat by choice living now in Nairobi, Kenya.
 I'm currently working on my final react project at African Leadership X (ALX). 
