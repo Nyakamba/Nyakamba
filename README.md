@@ -6,8 +6,4 @@ I'm currently working on my final react project at African Leadership X (ALX).
 
 Skills: React|Javacript|HTML|CSS3
 
-- 🔭 I’m currently working on this page. 
-
-
-
-
+- 🔭 I’m currently working on this page.
