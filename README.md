@@ -24,6 +24,8 @@ Skills: React|Javacript|HTML|CSS3
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nyakamba)  
 
-![Profile views](https://gpvc.arturio.dev/Nyakamba)  
+
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nyakamba)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/Nyakamba)  
