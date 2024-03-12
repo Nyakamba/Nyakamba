@@ -1,13 +1,13 @@
-# Hi there 👋, I'm Enock Omwega
+# Hello there 👋, I'm Enock Omwega
 ![image](https://user-images.githubusercontent.com/95473301/229603440-d2ea9577-376e-4a53-ba38-69a138eb3c1a.png)
 
-I'm a Front-End Software Developer by passion and an expert by choice living now in Nairobi, Kenya.
-I'm currently working on my final react project at African Leadership X (ALX). 
+I'm a Fullstack Software Developer by passion and an expert by choice living in Nairobi, Kenya.
+I'm currently freelancing as a Fullstack developer. 
 
-Skills: React|Javacript|HTML|CSS3
- 
-- 🔭 I’m currently working on Ecommerce website project development 
-- 🌱 I’m currently learning React, Redux and Bootstrap 
+Skills: Javacript|Reactjs|Nodejs|Expressjs|MongoDB|NExtjs|Tailwind CSS
+
+- 🔭 I’m currently working on an Ecommerce website project development 
+- 🌱 I’m a proficient website developer with all the skills my client needs 
 - 💬 Ask me about Web development 
 
 
