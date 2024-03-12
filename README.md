@@ -4,7 +4,7 @@
 I'm a Fullstack Software Developer by passion and an expert by choice living in Nairobi, Kenya.
 I'm currently freelancing as a Fullstack developer. 
 
-Skills: Javacript|Reactjs|Nodejs|Expressjs|MongoDB|NExtjs|Tailwind CSS
+Skills: Javacript | Reactjs | Nodejs | Expressjs | MongoDB | NExtjs | Tailwind CSS
 
 - 🔭 I’m currently working on an Ecommerce website project development 
 - 🌱 I’m a proficient website developer with all the skills my client needs 
