@@ -11,9 +11,9 @@
 Skilled Full Stack Developer | Expertise in Next.js, Node, Fastify, React Native, TypeScript, and GraphQL | Committed to Developing Cutting-Edge Software Solutions for Enhanced User Experience.
 
 With over 3 years of experience in software engineering, I am dedicated to designing and implementing innovative software solutions that enhance user experiences and deliver impactful results. My expertise spans both backend and frontend development, with a focus on Next.js, Fastify, TypeScript, and GraphQL. By combining technical proficiency with a collaborative approach, I consistently aim to drive innovation and ensure each project provides exceptional value to users.
-<br> <br>
+<br> <be>
 
-- *Key Skills:*
+*Key Skills:*
 
 - Full Stack Development (Next.js, Fastify, React, Redux Toolkit, Node.js, Nest.js, Python, Flask, Django)
 - Frontend Development (React, Ant Design, React Query, Zustand)
@@ -28,8 +28,7 @@ With over 3 years of experience in software engineering, I am dedicated to desig
 - Problem Solving
 - Business Planning
 
-
-  *Professional Approach:*
+ *Professional Approach:*
 I excel at tackling complex problems and am dedicated to delivering top-quality solutions. With experience spanning the education, fleet management, agriculture, and business sectors, I bring a versatile skill set that allows me to address a wide range of challenges efficiently. My diverse background equips me to adapt swiftly and make meaningful contributions across different projects and industries.
 
   <br />
@@ -42,17 +41,11 @@ I excel at tackling complex problems and am dedicated to delivering top-quality 
 | Title        | Type        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [GameHub](https://game-hub-ivory-iota.vercel.app/) | <div align='center' title='Commercial'>💰</div> | Built for drivers to connect and get hired | TypeScript, React, ReactQuery, Jest, REST |
-
 | [InstaDriver](https://instadriver.co/) | <div align='center' title='Commercial'>💰</div> | Built for drivers to connect and get hired | TypeScript, React, Redux, Jest, SASS/SCSS, Webpack,Nest js, REST |
-
 | [Rentyme Landlord](landlord.rentyme.com) | <div align='center' title='Commercial' >💰</div> | Allows Agency ,Landlords to manage properties,units and tenats , Recieve Rent , track incident and visitors checkbooks|  TypeScript, Zustand,Next js, React, Redux, Chakra UI, Graphql, React Query, Codegen,Fastify , Graphql Yoga,Prisma, Postgres, AWS ECS, AWS Amplify, |
-
 | [Rentyme Landing Page](https://rentyme.com/)| <div align='center' title='Commercial' >💰</div> | Help to show case the listed Properties by Landlord, Allow Leads to Inquire about properties |TypeScript, Zustand,Next js, React, React Context,  Tailwind, Graphql, React Query, Codegen, AWS Amplify, |
-
 | [Rentyme Tenant](https://tenant.rentyme.com/auth/tenants/signin) | <div align='center' title='Commercial'>💰</div> | Tenants to Pay Rent and report any maintance reqired | TypeScript, Zustand,Next js, React, Redux, Chakra UI, Graphql, React Query, Codegen,Fastify , Graphql Yoga,Prisma, Postgres, AWS ECS, AWS Amplify, |
-
 | [Estore Ecommerce](https://app.ifunza.com/main/estore/dashboard/self-onboard) | <div align='center' title='Private'>🔑</div> | iFunza Market Place for Parents to buy school related Products |  TypeScript, Zustand,Next js, React, Redux, Ant d,Tailwind CSS Graphql, React Query, Codegen,Fastify , Graphql Yoga,Prisma, Postgres, Digital Ocean, Azure Pipelines,Azure App Services |
-
 | [Rentyme Admin](https://admin.rentyme.com/) | <div align='center' title='Training'>🎓</div> | Rentyme Admin to manage all landlords , do payouts etc | TypeScript, Zustand,Next js, React, Redux, Material UI, Graphql, React Query, Codegen,Fastify , Graphql Yoga,Prisma, Postgres, AWS ECS, AWS Amplify,|
 
 <br />
