@@ -13,8 +13,7 @@ Skilled Full Stack Developer | Expertise in Next.js, Node, Fastify, React Native
 With over 3 years of experience in software engineering, I am dedicated to designing and implementing innovative software solutions that enhance user experiences and deliver impactful results. My expertise spans both backend and frontend development, with a focus on Next.js, Fastify, TypeScript, and GraphQL. By combining technical proficiency with a collaborative approach, I consistently aim to drive innovation and ensure each project provides exceptional value to users.
 <br> <be>
 
-*Key Skills:*
-
+ *Key Skills:*
 - Full Stack Development (Next.js, Fastify, React, Redux Toolkit, Node.js, Nest.js, Python, Flask, Django)
 - Frontend Development (React, Ant Design, React Query, Zustand)
 - Mobile Development (Flutter , React Native , Getx , Dio , RiverPod,Graphql Client)
@@ -28,8 +27,8 @@ With over 3 years of experience in software engineering, I am dedicated to desig
 - Problem Solving
 - Business Planning
 
- *Professional Approach:*
-I excel at tackling complex problems and am dedicated to delivering top-quality solutions. With experience spanning the education, fleet management, agriculture, and business sectors, I bring a versatile skill set that allows me to address a wide range of challenges efficiently. My diverse background equips me to adapt swiftly and make meaningful contributions across different projects and industries.
+*Professional Approach:*
+  I excel at tackling complex problems and am dedicated to delivering top-quality solutions. With experience spanning the education, fleet management, agriculture, and business sectors, I bring a versatile skill set that allows me to address a wide range of challenges efficiently. My diverse background equips me to adapt swiftly and make meaningful contributions across different projects and industries.
 
   <br />
   <br />
