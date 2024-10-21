@@ -52,7 +52,7 @@ With over 3 years of experience in software engineering, I am dedicated to desig
   ## Professional Experience
 
 ### Fullstack Engineer
-*Yashio Kenya.*  
+*Yashio Kenya*  
 May 2024 - Present  
 - Managed multiple projects simultaneously, ensuring accurate delivery within project timelines.
 - Collaborated with Development Project Manager to meet project requirements.
@@ -61,7 +61,7 @@ May 2024 - Present
 - Developed and contributed to the existing Frontend and Backend code base using technologies such as Next.js, Typescript, GraphQL, Fastify, Flutter, Digital Ocean, MongoDB, Prisma, and more.
 
 ### Fullstack Engineer
-*TrenchLabs *  
+*TrenchLabs*  
 Oct 2023 - Oct 2022  
 - Collaborated with cross-functional teams to deliver dynamic, responsive web applications for e-commerce and SaaS platforms.
 - Managed database integrations, ensuring data accuracy and efficient querying with MySql and MongoDB.
